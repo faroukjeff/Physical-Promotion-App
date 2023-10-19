@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1118ec6a-8d37-4308-b823-63106b255238" name="Default Changelist" comment="Change line 134 remove &quot;await&quot;" />
+    <list id="f793bd47-df75-4cda-96e5-7f737bc52dfa" name="Changes by mario" comment="Added didUserSubmitWeekly and didUserSubmitDaily and wrote tests.&#10;Although I figured it out that tests like Add new user doesn't show new user in database." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="additionalForms" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21JfA7pNcuOCKK2YRTVPLlpxW8Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.app.test.js">
+    <configuration name="formServices" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/app.test.js" />
+      <test-names>
+        <test-name value="formServices" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="formServices.should find form by id" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/app.test.js" />
+      <test-names>
+        <test-name value="formServices" />
+        <test-name value="should find form by id" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="userServices.Bad credentials should yield to Error" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/app.test.js" />
+      <test-names>
+        <test-name value="userServices" />
+        <test-name value="Bad credentials should yield to Error" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="userServices.Good credentials should yield to login" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/app.test.js" />
+      <test-names>
+        <test-name value="userServices" />
+        <test-name value="Good credentials should yield to login" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="app.test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.test.js" />
+        <item itemvalue="Jest.formServices" />
+        <item itemvalue="Jest.userServices.Good credentials should yield to login" />
+        <item itemvalue="Jest.userServices.Bad credentials should yield to Error" />
+        <item itemvalue="Jest.formServices.should find form by id" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1118ec6a-8d37-4308-b823-63106b255238" name="Default Changelist" comment="" />
+      <created>1637663964401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637663964401</updated>
+      <workItem from="1637663966210" duration="1834000" />
+      <workItem from="1637699192272" duration="442000" />
+      <workItem from="1637699902915" duration="422000" />
+      <workItem from="1638880028230" duration="12206000" />
+      <workItem from="1638896864040" duration="1727000" />
+      <workItem from="1638906526777" duration="194000" />
+      <workItem from="1638918229899" duration="2899000" />
+      <workItem from="1638921907121" duration="44000" />
+      <workItem from="1638972235096" duration="251000" />
+      <workItem from="1638972633860" duration="603000" />
+      <workItem from="1638973741086" duration="135000" />
+      <workItem from="1639060724418" duration="3630000" />
+      <workItem from="1639075396969" duration="53000" />
+      <workItem from="1639075460769" duration="340000" />
+      <workItem from="1639344935694" duration="1057000" />
+      <workItem from="1639399806125" duration="791000" />
+      <workItem from="1639423651683" duration="642000" />
+      <workItem from="1639737434624" duration="196000" />
+      <workItem from="1639738202873" duration="1766000" />
+      <workItem from="1639772680721" duration="1356000" />
+      <workItem from="1639944470689" duration="16000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1637664021018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637664021018</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit before pull">
+      <created>1638880071491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638880071491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit before pull">
+      <created>1638880297298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638880297298</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added didUserSubmitWeekly and didUserSubmitDaily, wrote tests for them, will change them to mock later">
+      <created>1638892787483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638892787483</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added getLastWeekAnswers, getLastWeekAnswers14Days, getLastWeeklyFormAnswers, getAllClientsId, and some mock tests">
+      <created>1639066816146</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639066816146</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change line 134 remove &quot;await&quot;">
+      <created>1639075767501</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639075767501</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/feature/changePassword" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="commit before pull" />
+    <MESSAGE value="Added didUserSubmitWeekly and didUserSubmitDaily and wrote tests.&#10;Although I figured it out that tests like Add new user doesn't show new user in database." />
+    <MESSAGE value="Added didUserSubmitWeekly and didUserSubmitDaily, wrote tests for them, will change them to mock later" />
+    <MESSAGE value="Added getLastWeekAnswers, getLastWeekAnswers14Days, getLastWeeklyFormAnswers, getAllClientsId, and some mock tests" />
+    <MESSAGE value="Change line 134 remove &quot;await&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change line 134 remove &quot;await&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Forms/formServices.js</url>
+          <line>99</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app.test.js</url>
+          <line>174</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

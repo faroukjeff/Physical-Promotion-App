@@ -1,0 +1,1 @@
+export const serverUrl = 'https://dsd-be.herokuapp.com';
